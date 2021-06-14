@@ -1,4 +1,4 @@
-# cross-sell-prediction-using-machine-learning
+# Cross Sell Prediction using Machine Learning
 # A measure of health insurance owner interest in vehicle insurance
 # Analysis Using Machine Learning Techniques
 
